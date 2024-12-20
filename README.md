@@ -1,3 +1,3 @@
 # GitFlow
 testando o git flow
-cirando uma feature
+criando uma feature
